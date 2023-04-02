@@ -14,7 +14,7 @@ git clone https://github.com/1siikaa/practicemernStack.git
 
 Navigate to the project directory:
 ```yaml
-cd practicemernStack
+cd mernStack
 ```
 Install the dependencies for the server:
 ```yaml
