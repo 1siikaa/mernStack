@@ -1,0 +1,47 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    
+
+}
+
+li{
+    float : left;
+    
+   
+    
+}
+
+h3{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding: 0.875rem 1rem;
+    
+
+}
+
+
+
+.active {
+    color:red;
+    text-decoration: none;
+}
+
+.change{
+    color:white;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
